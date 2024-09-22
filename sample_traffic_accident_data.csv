@@ -1,0 +1,101 @@
+Accident_ID,Date,Time,Day_of_Week,City,State,Road_Type,Accident_Severity,Weather_Conditions,Visibility,Road_Surface_Condition,Lighting_Conditions,Vehicle_Type,Vehicle_Count,Vehicle_Speed,Driver_Age,Driver_Gender,Impairment,Seatbelt_Use,Injury_Count,Fatality_Count,Pedestrian_Involved,Hit_and_Run
+1,2024-01-01,00:00:00,Monday,New York,CA,Street,Major,Clear,Poor,Sandy,Night,Truck,4,108,61,Female,Alcohol,No,0,1,False,False
+2,2024-01-02,00:05:00,Thursday,Chicago,CA,Highway,Fatal,Rainy,Poor,Icy,Night,Bicycle,4,32,71,Male,Drugs,No,4,0,False,True
+3,2024-01-03,00:10:00,Thursday,Chicago,TX,Intersection,Fatal,Rainy,Moderate,Wet,Dusk,Motorcycle,4,103,38,Male,None,Yes,3,1,True,True
+4,2024-01-04,00:15:00,Thursday,New York,CA,Intersection,Major,Clear,Moderate,Sandy,Daylight,Car,3,43,24,Male,None,Yes,0,0,False,False
+5,2024-01-05,00:20:00,Sunday,Los Angeles,TX,Street,Major,Snowy,Moderate,Dry,Night,Motorcycle,3,87,72,Male,None,No,0,0,False,False
+6,2024-01-06,00:25:00,Tuesday,San Francisco,IL,Street,Fatal,Foggy,Moderate,Wet,Night,Motorcycle,3,82,24,Female,None,Yes,4,1,False,False
+7,2024-01-07,00:30:00,Tuesday,New York,TX,Main Road,Fatal,Clear,Good,Icy,Dusk,Truck,4,83,38,Female,Drugs,No,2,1,False,False
+8,2024-01-08,00:35:00,Sunday,Los Angeles,NY,Intersection,Minor,Windy,Good,Dry,Night,Motorcycle,3,31,31,Female,None,Yes,1,1,False,True
+9,2024-01-09,00:40:00,Tuesday,New York,NY,Street,Minor,Foggy,Good,Wet,Daylight,Car,3,111,35,Female,None,No,3,0,True,True
+10,2024-01-10,00:45:00,Sunday,Los Angeles,TX,Highway,Fatal,Clear,Moderate,Sandy,Dusk,Bicycle,4,73,35,Female,Drugs,No,1,0,False,True
+11,2024-01-11,00:50:00,Saturday,New York,NY,Intersection,Fatal,Snowy,Moderate,Wet,Dusk,Truck,4,51,25,Female,Drugs,Yes,1,0,False,False
+12,2024-01-12,00:55:00,Thursday,New York,IL,Street,Fatal,Snowy,Good,Sandy,Night,Bicycle,4,72,58,Female,Alcohol,No,1,0,False,False
+13,2024-01-13,01:00:00,Saturday,Chicago,TX,Highway,Minor,Rainy,Moderate,Icy,Daylight,Truck,2,69,36,Male,Alcohol,Yes,2,0,False,True
+14,2024-01-14,01:05:00,Thursday,Chicago,IL,Intersection,Minor,Windy,Moderate,Wet,Daylight,Car,1,77,38,Female,Alcohol,Yes,0,0,True,False
+15,2024-01-15,01:10:00,Monday,Austin,CA,Intersection,Fatal,Foggy,Poor,Dry,Dusk,Bicycle,4,55,64,Male,Drugs,No,4,0,False,False
+16,2024-01-16,01:15:00,Wednesday,New York,TX,Street,Minor,Snowy,Good,Wet,Night,Motorcycle,3,87,51,Male,Alcohol,No,2,0,True,True
+17,2024-01-17,01:20:00,Saturday,San Francisco,TX,Highway,Fatal,Foggy,Poor,Icy,Dusk,Car,2,26,23,Female,None,Yes,4,0,True,False
+18,2024-01-18,01:25:00,Friday,New York,IL,Intersection,Minor,Clear,Poor,Sandy,Night,Truck,4,21,23,Male,None,Yes,4,0,True,True
+19,2024-01-19,01:30:00,Wednesday,Los Angeles,CA,Intersection,Major,Clear,Moderate,Wet,Dusk,Bicycle,3,46,21,Female,Drugs,Yes,0,1,True,True
+20,2024-01-20,01:35:00,Sunday,Chicago,CA,Main Road,Minor,Rainy,Moderate,Wet,Night,Motorcycle,3,100,34,Female,None,Yes,2,1,True,False
+21,2024-01-21,01:40:00,Tuesday,New York,TX,Highway,Minor,Windy,Poor,Sandy,Dusk,Motorcycle,1,104,27,Female,None,Yes,0,0,True,True
+22,2024-01-22,01:45:00,Saturday,San Francisco,NY,Main Road,Fatal,Windy,Poor,Wet,Daylight,Bicycle,1,91,75,Female,Drugs,No,1,1,False,False
+23,2024-01-23,01:50:00,Wednesday,Austin,CA,Street,Major,Clear,Poor,Icy,Dusk,Truck,3,79,54,Male,None,Yes,2,1,True,True
+24,2024-01-24,01:55:00,Wednesday,Los Angeles,TX,Intersection,Fatal,Windy,Good,Icy,Night,Truck,2,35,64,Male,Drugs,No,2,1,False,False
+25,2024-01-25,02:00:00,Sunday,Chicago,TX,Intersection,Major,Rainy,Good,Dry,Night,Truck,4,73,23,Female,Alcohol,Yes,4,1,False,True
+26,2024-01-26,02:05:00,Wednesday,Los Angeles,NY,Street,Major,Clear,Poor,Wet,Dusk,Car,3,98,72,Female,Drugs,No,3,1,False,True
+27,2024-01-27,02:10:00,Saturday,Chicago,CA,Street,Minor,Clear,Good,Wet,Dusk,Truck,4,101,24,Male,Drugs,No,3,0,False,False
+28,2024-01-28,02:15:00,Monday,New York,CA,Highway,Fatal,Rainy,Good,Dry,Daylight,Bicycle,1,115,55,Male,None,Yes,0,1,True,False
+29,2024-01-29,02:20:00,Wednesday,Austin,TX,Main Road,Major,Clear,Poor,Icy,Night,Bicycle,1,85,74,Male,None,Yes,3,0,False,True
+30,2024-01-30,02:25:00,Monday,Los Angeles,TX,Main Road,Fatal,Foggy,Good,Icy,Daylight,Car,3,28,53,Female,Drugs,No,1,1,False,True
+31,2024-01-31,02:30:00,Friday,Austin,TX,Highway,Minor,Clear,Poor,Wet,Daylight,Bicycle,1,112,65,Male,Drugs,No,3,1,True,True
+32,2024-02-01,02:35:00,Monday,Austin,CA,Highway,Major,Rainy,Good,Wet,Daylight,Motorcycle,3,32,61,Female,Drugs,No,3,1,True,True
+33,2024-02-02,02:40:00,Monday,New York,CA,Street,Fatal,Foggy,Moderate,Wet,Daylight,Bicycle,3,69,42,Female,Drugs,Yes,0,1,False,True
+34,2024-02-03,02:45:00,Monday,San Francisco,IL,Main Road,Major,Windy,Poor,Icy,Daylight,Motorcycle,4,21,51,Female,Drugs,Yes,2,1,True,True
+35,2024-02-04,02:50:00,Friday,Austin,IL,Street,Minor,Rainy,Moderate,Sandy,Dusk,Truck,3,103,63,Male,Drugs,No,1,0,True,True
+36,2024-02-05,02:55:00,Tuesday,Los Angeles,NY,Main Road,Fatal,Snowy,Moderate,Wet,Daylight,Car,2,30,53,Male,Drugs,No,2,0,False,False
+37,2024-02-06,03:00:00,Tuesday,San Francisco,CA,Highway,Fatal,Snowy,Good,Sandy,Daylight,Bicycle,3,90,42,Female,Alcohol,No,3,0,False,True
+38,2024-02-07,03:05:00,Friday,Austin,IL,Highway,Major,Rainy,Poor,Icy,Daylight,Bicycle,2,97,32,Female,None,No,0,0,False,False
+39,2024-02-08,03:10:00,Monday,Los Angeles,CA,Highway,Minor,Windy,Moderate,Sandy,Dusk,Bicycle,4,119,50,Female,None,Yes,1,0,False,False
+40,2024-02-09,03:15:00,Thursday,New York,CA,Intersection,Major,Windy,Good,Wet,Night,Bicycle,2,82,66,Female,Alcohol,No,4,0,True,True
+41,2024-02-10,03:20:00,Saturday,Austin,CA,Main Road,Fatal,Rainy,Moderate,Sandy,Daylight,Bicycle,3,56,54,Female,Alcohol,No,4,1,False,False
+42,2024-02-11,03:25:00,Thursday,Chicago,NY,Street,Major,Clear,Moderate,Sandy,Daylight,Motorcycle,3,105,45,Female,Drugs,Yes,2,0,True,True
+43,2024-02-12,03:30:00,Monday,Chicago,IL,Highway,Major,Rainy,Poor,Icy,Dusk,Truck,3,39,52,Female,Drugs,Yes,2,0,True,True
+44,2024-02-13,03:35:00,Friday,Chicago,NY,Main Road,Major,Windy,Good,Icy,Daylight,Truck,1,24,71,Male,None,No,4,0,True,True
+45,2024-02-14,03:40:00,Saturday,Austin,CA,Highway,Fatal,Snowy,Poor,Sandy,Daylight,Truck,2,25,38,Male,Drugs,No,3,1,True,False
+46,2024-02-15,03:45:00,Thursday,San Francisco,TX,Intersection,Fatal,Windy,Poor,Sandy,Daylight,Truck,1,35,24,Male,None,No,2,0,True,False
+47,2024-02-16,03:50:00,Monday,Los Angeles,IL,Highway,Fatal,Snowy,Poor,Dry,Night,Car,1,24,18,Male,None,No,1,1,False,True
+48,2024-02-17,03:55:00,Sunday,Los Angeles,TX,Highway,Fatal,Snowy,Poor,Wet,Night,Truck,4,68,74,Female,Drugs,No,3,1,False,False
+49,2024-02-18,04:00:00,Sunday,Chicago,CA,Main Road,Minor,Snowy,Good,Wet,Dusk,Bicycle,1,105,20,Male,None,No,3,1,True,True
+50,2024-02-19,04:05:00,Wednesday,San Francisco,CA,Main Road,Fatal,Snowy,Good,Dry,Dusk,Bicycle,1,49,36,Male,None,Yes,4,0,True,False
+51,2024-02-20,04:10:00,Thursday,Austin,CA,Intersection,Major,Foggy,Poor,Icy,Dusk,Bicycle,1,57,52,Female,Alcohol,No,1,1,True,True
+52,2024-02-21,04:15:00,Monday,Los Angeles,NY,Intersection,Fatal,Foggy,Good,Sandy,Night,Truck,2,68,36,Female,Alcohol,No,4,0,False,True
+53,2024-02-22,04:20:00,Wednesday,San Francisco,TX,Main Road,Minor,Clear,Good,Sandy,Night,Bicycle,1,115,33,Female,Drugs,Yes,4,1,True,True
+54,2024-02-23,04:25:00,Thursday,New York,NY,Highway,Minor,Clear,Good,Dry,Dusk,Bicycle,1,90,50,Female,Drugs,No,4,0,True,False
+55,2024-02-24,04:30:00,Thursday,San Francisco,TX,Main Road,Minor,Windy,Moderate,Icy,Daylight,Bicycle,4,72,25,Female,Drugs,No,4,1,True,False
+56,2024-02-25,04:35:00,Wednesday,Los Angeles,TX,Main Road,Major,Rainy,Moderate,Icy,Daylight,Motorcycle,1,54,68,Male,Alcohol,No,0,1,False,False
+57,2024-02-26,04:40:00,Wednesday,San Francisco,CA,Intersection,Minor,Clear,Poor,Icy,Daylight,Bicycle,1,107,50,Female,None,Yes,0,0,True,False
+58,2024-02-27,04:45:00,Saturday,Los Angeles,IL,Main Road,Minor,Windy,Moderate,Wet,Daylight,Truck,1,55,75,Female,Alcohol,Yes,0,0,True,False
+59,2024-02-28,04:50:00,Friday,New York,NY,Highway,Major,Rainy,Good,Wet,Night,Truck,4,47,42,Female,Alcohol,Yes,3,0,True,True
+60,2024-02-29,04:55:00,Monday,San Francisco,CA,Street,Major,Foggy,Poor,Sandy,Daylight,Car,2,21,23,Male,Drugs,Yes,0,1,False,False
+61,2024-03-01,05:00:00,Thursday,Austin,CA,Highway,Minor,Clear,Good,Dry,Daylight,Motorcycle,3,76,63,Female,Alcohol,Yes,3,0,True,True
+62,2024-03-02,05:05:00,Saturday,San Francisco,TX,Street,Fatal,Clear,Good,Sandy,Dusk,Truck,1,96,29,Female,None,No,0,0,True,False
+63,2024-03-03,05:10:00,Sunday,San Francisco,NY,Street,Fatal,Snowy,Poor,Wet,Daylight,Truck,3,27,49,Male,Drugs,Yes,0,1,True,True
+64,2024-03-04,05:15:00,Tuesday,San Francisco,CA,Intersection,Major,Foggy,Moderate,Sandy,Dusk,Car,2,43,45,Male,Drugs,Yes,2,1,True,True
+65,2024-03-05,05:20:00,Friday,Chicago,CA,Main Road,Fatal,Windy,Moderate,Wet,Daylight,Bicycle,1,90,21,Female,None,Yes,2,0,False,False
+66,2024-03-06,05:25:00,Friday,Los Angeles,IL,Intersection,Major,Foggy,Good,Sandy,Night,Bicycle,3,82,30,Male,Alcohol,No,2,1,False,False
+67,2024-03-07,05:30:00,Wednesday,Austin,NY,Main Road,Minor,Snowy,Moderate,Wet,Dusk,Truck,3,28,45,Male,Alcohol,No,3,1,True,True
+68,2024-03-08,05:35:00,Tuesday,Austin,NY,Highway,Fatal,Snowy,Moderate,Dry,Daylight,Motorcycle,4,43,24,Female,None,Yes,2,1,True,True
+69,2024-03-09,05:40:00,Friday,Los Angeles,CA,Street,Fatal,Rainy,Moderate,Wet,Dusk,Bicycle,2,56,45,Female,None,Yes,0,1,True,False
+70,2024-03-10,05:45:00,Thursday,New York,IL,Highway,Fatal,Rainy,Poor,Icy,Night,Car,2,107,56,Female,Drugs,Yes,3,1,True,False
+71,2024-03-11,05:50:00,Wednesday,Austin,CA,Street,Minor,Snowy,Moderate,Icy,Daylight,Motorcycle,2,114,27,Female,None,No,3,1,True,True
+72,2024-03-12,05:55:00,Wednesday,Chicago,IL,Street,Minor,Clear,Moderate,Sandy,Night,Bicycle,1,85,51,Male,Alcohol,No,2,0,True,False
+73,2024-03-13,06:00:00,Sunday,Austin,NY,Main Road,Minor,Snowy,Poor,Icy,Dusk,Bicycle,4,98,47,Male,None,Yes,4,1,True,True
+74,2024-03-14,06:05:00,Tuesday,Austin,CA,Main Road,Minor,Clear,Poor,Sandy,Daylight,Bicycle,2,96,36,Female,None,No,3,1,False,True
+75,2024-03-15,06:10:00,Tuesday,San Francisco,IL,Main Road,Minor,Rainy,Good,Icy,Dusk,Bicycle,1,84,66,Female,None,No,3,0,True,False
+76,2024-03-16,06:15:00,Friday,Austin,CA,Highway,Minor,Foggy,Good,Icy,Daylight,Truck,3,113,73,Female,Alcohol,No,1,1,False,True
+77,2024-03-17,06:20:00,Monday,New York,NY,Main Road,Fatal,Snowy,Good,Sandy,Daylight,Bicycle,1,106,70,Female,None,No,0,1,False,True
+78,2024-03-18,06:25:00,Monday,San Francisco,TX,Street,Minor,Windy,Good,Dry,Dusk,Motorcycle,1,33,30,Male,Drugs,Yes,0,0,False,True
+79,2024-03-19,06:30:00,Wednesday,New York,TX,Main Road,Major,Clear,Good,Sandy,Daylight,Car,2,113,61,Male,Drugs,No,3,0,False,False
+80,2024-03-20,06:35:00,Friday,Chicago,IL,Main Road,Major,Foggy,Good,Dry,Daylight,Bicycle,4,58,44,Female,None,Yes,2,0,False,False
+81,2024-03-21,06:40:00,Saturday,Austin,TX,Intersection,Minor,Clear,Poor,Wet,Daylight,Truck,3,51,52,Female,Drugs,No,0,1,True,False
+82,2024-03-22,06:45:00,Sunday,San Francisco,CA,Highway,Minor,Clear,Poor,Sandy,Night,Bicycle,4,32,24,Male,Alcohol,Yes,0,1,True,True
+83,2024-03-23,06:50:00,Friday,Chicago,CA,Street,Fatal,Windy,Good,Dry,Daylight,Motorcycle,3,56,54,Male,None,Yes,2,1,False,False
+84,2024-03-24,06:55:00,Saturday,Austin,IL,Highway,Minor,Foggy,Poor,Dry,Daylight,Motorcycle,4,88,41,Female,Alcohol,No,4,1,False,True
+85,2024-03-25,07:00:00,Thursday,Austin,TX,Main Road,Fatal,Rainy,Moderate,Wet,Daylight,Motorcycle,4,27,74,Female,Alcohol,Yes,3,1,False,True
+86,2024-03-26,07:05:00,Saturday,New York,CA,Intersection,Minor,Rainy,Good,Icy,Night,Car,1,82,40,Female,Alcohol,No,1,1,True,True
+87,2024-03-27,07:10:00,Thursday,Austin,IL,Highway,Major,Windy,Moderate,Sandy,Dusk,Motorcycle,1,75,67,Male,Alcohol,Yes,2,0,True,False
+88,2024-03-28,07:15:00,Thursday,Los Angeles,CA,Highway,Fatal,Foggy,Good,Sandy,Night,Motorcycle,1,51,59,Female,Drugs,No,1,1,True,False
+89,2024-03-29,07:20:00,Friday,Austin,NY,Street,Minor,Clear,Poor,Wet,Night,Truck,4,27,50,Male,Alcohol,Yes,4,1,False,True
+90,2024-03-30,07:25:00,Saturday,Chicago,NY,Street,Major,Foggy,Moderate,Icy,Dusk,Car,1,54,53,Male,Drugs,No,0,1,False,True
+91,2024-03-31,07:30:00,Friday,Chicago,IL,Main Road,Major,Snowy,Poor,Wet,Night,Motorcycle,4,48,34,Male,None,No,1,0,False,False
+92,2024-04-01,07:35:00,Monday,Austin,NY,Intersection,Minor,Windy,Moderate,Icy,Night,Motorcycle,4,55,42,Female,Alcohol,No,2,1,True,False
+93,2024-04-02,07:40:00,Thursday,San Francisco,TX,Street,Minor,Windy,Moderate,Wet,Daylight,Motorcycle,2,24,37,Female,Drugs,Yes,3,0,False,False
+94,2024-04-03,07:45:00,Saturday,Austin,CA,Street,Minor,Rainy,Poor,Icy,Night,Bicycle,1,96,59,Female,None,Yes,3,1,True,False
+95,2024-04-04,07:50:00,Friday,New York,TX,Main Road,Fatal,Foggy,Moderate,Dry,Daylight,Bicycle,3,113,73,Male,None,Yes,0,0,False,False
+96,2024-04-05,07:55:00,Sunday,Los Angeles,NY,Street,Fatal,Rainy,Good,Sandy,Daylight,Motorcycle,2,30,36,Female,Alcohol,No,0,1,True,False
+97,2024-04-06,08:00:00,Wednesday,New York,TX,Street,Major,Snowy,Moderate,Dry,Dusk,Bicycle,4,83,35,Female,Drugs,No,1,1,True,True
+98,2024-04-07,08:05:00,Saturday,Los Angeles,IL,Main Road,Fatal,Rainy,Good,Wet,Night,Bicycle,4,54,41,Male,None,Yes,3,1,False,False
+99,2024-04-08,08:10:00,Thursday,Chicago,TX,Street,Minor,Clear,Moderate,Wet,Night,Car,1,77,44,Male,None,No,4,0,False,True
+100,2024-04-09,08:15:00,Tuesday,New York,IL,Highway,Fatal,Rainy,Moderate,Icy,Night,Car,3,81,48,Female,None,No,2,0,False,False
